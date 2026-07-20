@@ -1,16 +1,27 @@
-## Hi there 👋
+# Hi, I'm feng626 👋
 
-<!--
-**feng626/feng626** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a core contributor and maintainer of
+[JumpServer](https://github.com/jumpserver/jumpserver), an open-source
+Privileged Access Management platform.
 
-Here are some ideas to get you started:
+## Open-source work
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+My work on JumpServer includes:
+
+- Core backend development
+- Bug fixes and feature development
+- Pull request review and project maintenance
+- Security and compatibility improvements
+- Release maintenance and backports
+
+## JumpServer contributions
+
+- [My commits to JumpServer](https://github.com/jumpserver/jumpserver/commits?author=feng626)
+- [My pull requests](https://github.com/jumpserver/jumpserver/pulls?q=is%3Apr+author%3Afeng626)
+- [JumpServer project](https://github.com/jumpserver/jumpserver)
+
+## About JumpServer
+
+JumpServer is an open-source Privileged Access Management platform that
+provides secure access to SSH, RDP, Kubernetes, databases, and remote
+applications.
